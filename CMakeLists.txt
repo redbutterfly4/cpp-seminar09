@@ -1,7 +1,8 @@
 cmake_minimum_required(VERSION 3.29)
-project(seminar07)
-include_directories(lib/spdlog)
+project(seminar09)
 set(CMAKE_CXX_STANDARD 20)
+include_directories(lib/spdlog)
+
 enable_testing()
 
 add_subdirectory(src)
