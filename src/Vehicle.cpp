@@ -18,5 +18,5 @@ Vehicle::Vehicle(std::string modelName, std::string number, const unsigned speed
 std::string Vehicle::toString() const
 {
     return std::format("Vehicle {{ modelName : {}, number : {}, fuelConsumption : {}, year : {} }}",
-                       modelName_, number_, fuelConsumption_, static_cast<short>(year_));
+                       modelName_, number_, fuelConsumption_, year_);
 }

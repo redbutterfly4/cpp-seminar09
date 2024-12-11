@@ -15,16 +15,14 @@ int Application::main()
 
     std::vector<Vehicle *> vehicles;
 
-    Vehicle* vehiclePtr = new Car("bmw", "1234AB7", 200, 15, 2020, 5);
-    vehicles.push_back(vehiclePtr);
-
-    vehiclePtr = new ElectricCar("ford", "4444BB3", 120, 17, 2000, 5, 300.);
-    vehicles.push_back(vehiclePtr);
-
-    vehiclePtr = new Motorcycle("yamaha", "1313AA3", 150, 12, 2015, "Standard");
-    vehicles.push_back(vehiclePtr);
-
-
+    // Vehicle* vehiclePtr = new Car("bmw", "1234AB7", 200, 15, 2017, 5);
+    // vehicles.push_back(vehiclePtr);
+    //
+    // vehiclePtr = new ElectricCar("tesla", "4444BB3", 120, 17, 2020, 5, 300.);
+    // vehicles.push_back(vehiclePtr);
+    //
+    // vehiclePtr = new Motorcycle("yamaha", "1313AA3", 150, 12, 2015, "Standard");
+    // vehicles.push_back(vehiclePtr);
 
     for (Vehicle const *vehicle : vehicles) {
         std::cout << vehicle->toString() << '\n';

@@ -180,3 +180,53 @@
 [2024-12-10 18:07:02.893] [main_logger] [debug] Constructed ElectricCar { modelName : ford, number : 4444BB3, fuelConsumption : 17, year : 2000, numberOfPassengers : 5, batteryCapacity : 300 }
 [2024-12-10 18:07:02.893] [main_logger] [debug] Constructed Vehicle { modelName : yamaha, number : 1313AA3, fuelConsumption : 12, year : 2015 }
 [2024-12-10 18:07:02.893] [main_logger] [debug] Constructed Motorcycle { modelName : yamaha, number : 1313AA3, speed : 150, fuelConsumption : 12, year : 2015, type : Standard }
+[2024-12-10 21:53:21.477] [main_logger] [debug] Initialized logger.
+[2024-12-10 21:53:21.478] [main_logger] [info] Application start.
+[2024-12-10 21:53:21.478] [main_logger] [debug] Constructed Vehicle { modelName : bmw, number : 1234AB7, fuelConsumption : 15, year : 2020 }
+[2024-12-10 21:53:21.478] [main_logger] [debug] Constructed Car { modelName : bmw, number : 1234AB7, fuelConsumption : 15, year : 2020, numberOfPassengers : 5 }
+[2024-12-10 21:53:21.478] [main_logger] [debug] Constructed Vehicle { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2000 }
+[2024-12-10 21:53:21.478] [main_logger] [debug] Constructed Electric Vehicle { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2000, batteryCapacity : 300 }
+[2024-12-10 21:53:21.478] [main_logger] [debug] Constructed Car { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2000, numberOfPassengers : 5 }
+[2024-12-10 21:53:21.478] [main_logger] [debug] Constructed ElectricCar { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2000, numberOfPassengers : 5, batteryCapacity : 300 }
+[2024-12-10 21:53:21.478] [main_logger] [debug] Constructed Vehicle { modelName : yamaha, number : 1313AA3, fuelConsumption : 12, year : 2015 }
+[2024-12-10 21:53:21.478] [main_logger] [debug] Constructed Motorcycle { modelName : yamaha, number : 1313AA3, speed : 150, fuelConsumption : 12, year : 2015, type : Standard }
+[2024-12-10 21:56:40.539] [main_logger] [debug] Initialized logger.
+[2024-12-10 21:56:40.540] [main_logger] [info] Application start.
+[2024-12-10 21:56:40.540] [main_logger] [debug] Constructed Vehicle { modelName : bmw, number : 1234AB7, fuelConsumption : 15, year : 2017 }
+[2024-12-10 21:56:40.540] [main_logger] [debug] Constructed Car { modelName : bmw, number : 1234AB7, fuelConsumption : 15, year : 2017, numberOfPassengers : 5 }
+[2024-12-10 21:56:40.540] [main_logger] [debug] Constructed Vehicle { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2020 }
+[2024-12-10 21:56:40.540] [main_logger] [debug] Constructed Electric Vehicle { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2020, batteryCapacity : 300 }
+[2024-12-10 21:56:40.540] [main_logger] [debug] Constructed Car { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2020, numberOfPassengers : 5 }
+[2024-12-10 21:56:40.540] [main_logger] [debug] Constructed ElectricCar { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2020, numberOfPassengers : 5, batteryCapacity : 300 }
+[2024-12-10 21:56:40.540] [main_logger] [debug] Constructed Vehicle { modelName : yamaha, number : 1313AA3, fuelConsumption : 12, year : 2015 }
+[2024-12-10 21:56:40.540] [main_logger] [debug] Constructed Motorcycle { modelName : yamaha, number : 1313AA3, speed : 150, fuelConsumption : 12, year : 2015, type : Standard }
+[2024-12-10 21:58:03.269] [main_logger] [debug] Initialized logger.
+[2024-12-10 21:58:03.270] [main_logger] [info] Application start.
+[2024-12-10 21:58:03.270] [main_logger] [debug] Constructed Vehicle { modelName : bmw, number : 1234AB7, fuelConsumption : 15, year : 2017 }
+[2024-12-10 21:58:03.270] [main_logger] [debug] Constructed Car { modelName : bmw, number : 1234AB7, fuelConsumption : 15, year : 2017, numberOfPassengers : 5 }
+[2024-12-10 21:58:03.270] [main_logger] [debug] Constructed Vehicle { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2020 }
+[2024-12-10 21:58:03.270] [main_logger] [debug] Constructed Electric Vehicle { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2020, batteryCapacity : 300 }
+[2024-12-10 21:58:03.270] [main_logger] [debug] Constructed Car { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2020, numberOfPassengers : 5 }
+[2024-12-10 21:58:03.270] [main_logger] [debug] Constructed ElectricCar { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2020, numberOfPassengers : 5, batteryCapacity : 300 }
+[2024-12-10 21:58:03.270] [main_logger] [debug] Constructed Vehicle { modelName : yamaha, number : 1313AA3, fuelConsumption : 12, year : 2015 }
+[2024-12-10 21:58:03.270] [main_logger] [debug] Constructed Motorcycle { modelName : yamaha, number : 1313AA3, speed : 150, fuelConsumption : 12, year : 2015, type : Standard }
+[2024-12-11 11:45:35.367] [main_logger] [debug] Initialized logger.
+[2024-12-11 11:45:35.368] [main_logger] [info] Application start.
+[2024-12-11 11:45:35.368] [main_logger] [debug] Constructed Vehicle { modelName : bmw, number : 1234AB7, fuelConsumption : 15, year : 2017 }
+[2024-12-11 11:45:35.368] [main_logger] [debug] Constructed Car { modelName : bmw, number : 1234AB7, fuelConsumption : 15, year : 2017, numberOfPassengers : 5 }
+[2024-12-11 11:45:35.368] [main_logger] [debug] Constructed Vehicle { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2020 }
+[2024-12-11 11:45:35.368] [main_logger] [debug] Constructed Electric Vehicle { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2020, batteryCapacity : 300 }
+[2024-12-11 11:45:35.368] [main_logger] [debug] Constructed Car { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2020, numberOfPassengers : 5 }
+[2024-12-11 11:45:35.368] [main_logger] [debug] Constructed ElectricCar { modelName : tesla, number : 4444BB3, fuelConsumption : 17, year : 2020, numberOfPassengers : 5, batteryCapacity : 300 }
+[2024-12-11 11:45:35.368] [main_logger] [debug] Constructed Vehicle { modelName : yamaha, number : 1313AA3, fuelConsumption : 12, year : 2015 }
+[2024-12-11 11:45:35.368] [main_logger] [debug] Constructed Motorcycle { modelName : yamaha, number : 1313AA3, speed : 150, fuelConsumption : 12, year : 2015, type : Standard }
+[2024-12-11 11:47:11.204] [main_logger] [debug] Initialized logger.
+[2024-12-11 11:47:11.205] [main_logger] [info] Application start.
+[2024-12-11 11:47:11.205] [main_logger] [debug] Constructed Vehicle { modelName : bmw, number : 1234AB7, fuelConsumption : 15, year : 2017 }
+[2024-12-11 11:47:11.205] [main_logger] [debug] Constructed Car { modelName : bmw, number : 1234AB7, fuelConsumption : 15, year : 2017, numberOfPassengers : 5 }
+[2024-12-11 11:47:11.205] [main_logger] [debug] Constructed Vehicle { modelName : tesla, number : 4444BB33, fuelConsumption : 17, year : 2020 }
+[2024-12-11 11:47:11.205] [main_logger] [debug] Constructed Electric Vehicle { modelName : tesla, number : 4444BB33, fuelConsumption : 17, year : 2020, batteryCapacity : 300 }
+[2024-12-11 11:47:11.205] [main_logger] [debug] Constructed Car { modelName : tesla, number : 4444BB33, fuelConsumption : 17, year : 2020, numberOfPassengers : 5 }
+[2024-12-11 11:47:11.205] [main_logger] [debug] Constructed ElectricCar { modelName : tesla, number : 4444BB33, fuelConsumption : 17, year : 2020, numberOfPassengers : 5, batteryCapacity : 300 }
+[2024-12-11 11:47:11.205] [main_logger] [debug] Constructed Vehicle { modelName : yamaha, number : 1313AA3, fuelConsumption : 12, year : 2015 }
+[2024-12-11 11:47:11.205] [main_logger] [debug] Constructed Motorcycle { modelName : yamaha, number : 1313AA3, speed : 150, fuelConsumption : 12, year : 2015, type : Standard }

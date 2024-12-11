@@ -4,9 +4,9 @@
 class Application
 {
 public:
-    Application() = delete;
-
     static int main();
+
+    Application() = delete;
 
 private:
     static void setUpLoggerWithRotatingFiles();

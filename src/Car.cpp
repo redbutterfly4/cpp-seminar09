@@ -16,6 +16,6 @@ std::string Car::toString() const
 {
     return std::format("Car {{ modelName : {}, number : {}, fuelConsumption : {}, year : {}, "
                        "numberOfPassengers : {} }}",
-                       modelName_, number_, fuelConsumption_, static_cast<short>(year_),
+                       modelName_, number_, fuelConsumption_, year_,
                        numberOfPassengers_);
 }
